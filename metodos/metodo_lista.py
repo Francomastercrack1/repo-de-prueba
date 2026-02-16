@@ -12,7 +12,7 @@ lista.clear()
 #ordenando la lista(si usamos el parametro reverse=true la ordena en reversa)
 lista.sort(reverse=True)
 
-#index verificando si un elementod se encuentra en la lista
+#index verificando si un elementod se encuentra en la lista(el valor que le pasemos debe ser igual al de la lista)
 elemento_encontrado = lista.index(2)
 
 print(elemento_encontrado)
