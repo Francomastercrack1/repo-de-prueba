@@ -9,7 +9,7 @@ resul2 = lista.insert(0,"puto")
 #elimina todos lso elementos de la lista 
 resul3 = lista.clear()
 
-#ordenando la lista(si usamos el parametro reverse=true la ordena en reversa)
+#ordenando la lista de menor a mayor (si usamos el parametro reverse=true la ordena en reversa)
 resul4 = lista.sort(reverse=True)
 
 #index verificando si un elementod se encuentra en la lista(el valor que le pasemos debe ser igual al de la lista)

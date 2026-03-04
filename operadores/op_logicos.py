@@ -1,5 +1,6 @@
 # AND 
 #solo devuelve true3 si las dos condiciones son true
+#se escribe and mas no se usa el &
 Resultado1 = True & True # Devuelve True
 Resultado2 = False & True # Devuelve False
 Resultado3 = True & False # Devuelve falso
